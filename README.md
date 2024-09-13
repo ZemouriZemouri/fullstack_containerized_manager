@@ -6,7 +6,7 @@ https://github.com/dhomi/fullstack_conteinerized
 ## How-To
 1) Install / start Docker Desktop
 2) Install NodeJS
-3) For local running the Act tool is very handy <https://nektosact.com>
+3) For local running the Act tool is very handy: <https://nektosact.com>
 2) After docker-compose go to dashboard: http://localhost:4000/
 
 ## Start the container
