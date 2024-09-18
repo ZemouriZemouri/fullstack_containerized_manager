@@ -1,7 +1,7 @@
 # FULLSTACK CONTAINERIZATION WITH TERRAFORM
 
 ## Introduction
-This project is based on GitHub-repo:
+Terraform is a powerful tool to use code to deploy, secure and manage repositories. This project is based on GitHub-repo:
 
 https://github.com/dhomi/fullstack_conteinerized 
 
