@@ -7,13 +7,13 @@ https://github.com/dhomi/fullstack_conteinerized
 
 ### A scenario:
 - As a DevOps specialist
-- I would like to use an IaC tool
+- I would like to use an IaC tool in Windows OS
 - In order to manage my complete fullstack container environment/infrastructure
 
 ## How-To
-1) Install / start Docker Desktop
-2) Install NodeJS
-3) Install Terraform
+1) Install / start [Docker Desktop](https://docs.docker.com/desktop/) 
+2) Install [NodeJS](https://nodejs.org/en/download/package-manager)
+3) Install [Terraform](https://developer.hashicorp.com/terraform/install)
 4) Add "terraform.exe" into environment variables
 5) See for instructions starting the fullstack container environment: 
 - https://github.com/dhomi/fullstack_conteinerized 
