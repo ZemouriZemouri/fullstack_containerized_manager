@@ -14,7 +14,7 @@ https://github.com/dhomi/fullstack_conteinerized
 1) Install / start [Docker Desktop](https://docs.docker.com/desktop/) 
 2) Install [NodeJS](https://nodejs.org/en/download/package-manager)
 3) Install [Terraform](https://developer.hashicorp.com/terraform/install)
-4) Add "terraform.exe" into environment variables
+4) Add "terraform.exe" into (Windows) environment variables
 5) See for instructions starting the fullstack container environment: 
 - https://github.com/dhomi/fullstack_conteinerized 
 
