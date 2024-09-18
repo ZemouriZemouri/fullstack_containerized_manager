@@ -16,7 +16,7 @@ https://github.com/dhomi/fullstack_conteinerized
 3) Download/Install [Terraform](https://developer.hashicorp.com/terraform/install)
 4) Add "terraform.exe" into (Windows) environment variables
 5) See for instructions starting the fullstack container environment: 
-- https://github.com/dhomi/fullstack_conteinerized 
+    - https://github.com/dhomi/fullstack_conteinerized 
 
 ## Start with Terraform
 
