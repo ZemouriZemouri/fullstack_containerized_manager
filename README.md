@@ -19,3 +19,6 @@ https://github.com/dhomi/fullstack_conteinerized
 - https://github.com/dhomi/fullstack_conteinerized 
 
 ## Start with Terraform
+
+1) First set-up Terraform [GitHub provider](https://registry.terraform.io/providers/integrations/github/latest/docs)
+2) 
