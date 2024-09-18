@@ -13,8 +13,13 @@ https://github.com/dhomi/fullstack_conteinerized
 ## How-To
 1) Install / start Docker Desktop
 2) Install NodeJS
-3) For local running the Act tool is very handy: <https://nektosact.com>
-2) After docker-compose go to dashboard: http://localhost:4000/
+3) Install Terraform
+4) Add "terraform.exe" into environment variables
+5) (Optional) For local running the Act tool is very handy: <https://nektosact.com>
+6) After docker-compose go to dashboard: http://localhost:4000/
+
+## Start with Terraform
+
 
 ## Start the container
 ```docker-compose up --build```
