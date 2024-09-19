@@ -21,10 +21,16 @@ https://github.com/dhomi/fullstack_conteinerized
 ## Start with Terraform
 
 1) First set-up Terraform [GitHub provider](https://registry.terraform.io/providers/integrations/github/latest/docs)
-2) 
+2) ...
 
 ## Design Overview
 
 Terraform will be used to build different repositories located in different cloud platforms. The Terraform code is stored in this repository as a "Repo Manager" to manage the different repositories (see design overview below).
 
 ![terraform flow](terraform/img/terraform_repo_flow.jpg)
+
+## TO DO
+
+- Complete steps "Start with Terraform"
+- Complete Terraform configuration to use GitHub repo template(s)
+- Set-up process to monitor Terraform flow 
