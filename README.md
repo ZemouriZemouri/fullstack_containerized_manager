@@ -22,3 +22,7 @@ https://github.com/dhomi/fullstack_conteinerized
 
 1) First set-up Terraform [GitHub provider](https://registry.terraform.io/providers/integrations/github/latest/docs)
 2) 
+
+## Design Overview
+
+Terraform will be used to build different repositories located in GitHub, GitLab, Azure or other cloud platform. The Terraform code is stored in this repository is a "Repository Manager" to manage the different repositories. In figure 1 below...
