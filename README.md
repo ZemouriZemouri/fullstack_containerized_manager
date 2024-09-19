@@ -33,4 +33,4 @@ Terraform will be used to build different repositories located in different clou
 
 - Complete steps "Start with Terraform"
 - Complete Terraform configuration to use GitHub repo template(s)
-- Set-up process to monitor Terraform flow 
+- Set-up process to monitor and manage Terraform flow 
