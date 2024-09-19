@@ -8,7 +8,7 @@ https://github.com/dhomi/fullstack_conteinerized
 ### A scenario:
 - As a DevOps specialist
 - I would like to use an IaC tool in Windows OS
-- In order to manage my complete fullstack container environment/infrastructure
+- In order to manage my complete fullstack container environment from a repo
 
 ## How-To
 1) Download/Install [Docker Desktop](https://docs.docker.com/desktop/) 
