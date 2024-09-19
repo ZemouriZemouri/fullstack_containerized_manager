@@ -25,4 +25,6 @@ https://github.com/dhomi/fullstack_conteinerized
 
 ## Design Overview
 
-Terraform will be used to build different repositories located in GitHub, GitLab, Azure or another cloud platform. The Terraform code is stored in this repository as a "Repository Manager" to manage the different repositories. In figure 1 below...
+Terraform will be used to build different repositories located in GitHub, GitLab, Azure or another cloud platform. The Terraform code is stored in this repository as a "Repository Manager" to manage the different repositories (see figure 1 below).
+
+[flow.jpg](img/terraform_repo_flow.jpg)
