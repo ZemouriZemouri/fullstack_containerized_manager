@@ -23,6 +23,7 @@ https://github.com/dhomi/fullstack_conteinerized
 1) Pre-condition: step 3 and 4 from "How-To" are done
 2) Create a local folder for your Terraform project including the "main.tf"
 3) Then set-up Terraform [GitHub provider](https://registry.terraform.io/providers/integrations/github/latest/docs)
+	- see complete list of providers: https://registry.terraform.io/browse/providers
 4) ...
 
 ## Design Overview
