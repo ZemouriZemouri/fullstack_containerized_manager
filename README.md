@@ -25,7 +25,10 @@ https://github.com/dhomi/fullstack_conteinerized
 3) In the "main.tf" add the needed providers (in this case: GitHub provider)
 	- See complete list of providers: https://registry.terraform.io/browse/providers
 4) Set-up Terraform [GitHub provider](https://registry.terraform.io/providers/integrations/github/latest/docs)
-5) ...
+5) Initialize the Terraform workspace by running `terraform init` in the directory with your "main.tf" file
+6) Run `terraform plan` to preview the actions Terraform will take to achieve the desired state
+7) Apply the configuration with `terraform apply` to provision the resources
+8) Verify that the resources are correctly created and configured through the appropriate provider (e.g., GitHub)
 
 ## Design Overview
 
