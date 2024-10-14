@@ -40,5 +40,5 @@ Terraform will be used to build different repositories located in different clou
 
 - Complete steps "Start with Terraform"
 - Complete Terraform configuration to use GitHub repo template(s)
-  > see ![template](https://github.com/ZemouriZemouri/fullstack_containerized_template)
-- Set-up process to monitor and manage Terraform flow 
+  > see [template](https://github.com/ZemouriZemouri/fullstack_containerized_template)
+- Set-up process to monitor and manage Terraform flow
